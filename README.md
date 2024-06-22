@@ -9,3 +9,9 @@
 <li>⭐️Output file - Native x86 executable, easy to encrypt.</li>
 <li>⭐️Private key, gate address and all other string values are heavily encrypted.</li>
 <li>⭐️The stealer stores most of the collected data in RAM, not on disk.</li>
+
+
+
+
+
+<li>⭐️THE FINAL RELEASE AT JUNE 30th 2024. PLEASE BE PATIENCE FOR NEW TOOL</li>
